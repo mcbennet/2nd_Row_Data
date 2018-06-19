@@ -60,7 +60,7 @@
  2,1.93345601,-142125.41164262;
  2,1.99192523,138006.23630568;
  
- Including file /remote/mbennet/projects/ECP/3p/Si/analysis/bases/si_aug-cc-pCV5Z_2s2p2d.basis
+ Including file si_aug-cc-pCV5Z_2s2p2d.basis
  }
  
  geometry={Si}
@@ -106,7 +106,7 @@
  2,8.4322992,11739.44079236;
  2,4.71055456,48.9283704;
  
- Including file /remote/mbennet/projects/ECP/3p/Si/analysis/bases/o_aug-cc-pCV5Z.basis
+ Including file o_aug-cc-pCV5Z.basis
  }
  
  geometry={O}
@@ -150,7 +150,7 @@
  2,1.93345601,-142125.41164262;
  2,1.99192523,138006.23630568;
  
- Including file /remote/mbennet/projects/ECP/3p/Si/analysis/bases/si_aug-cc-pCV5Z_2s2p2d.basis
+ Including file si_aug-cc-pCV5Z_2s2p2d.basis
  }
  
  geometry={Si}
@@ -276,7 +276,7 @@
  2,1.93345601,-142125.41164262;
  2,1.99192523,138006.23630568;
  
- Including file /remote/mbennet/projects/ECP/3p/Si/analysis/bases/si_aug-cc-pCV5Z_2s2p2d.basis
+ Including file si_aug-cc-pCV5Z_2s2p2d.basis
  
  ecp,O,2,2,0;
  6;
@@ -301,7 +301,7 @@
  2,8.4322992,11739.44079236;
  2,4.71055456,48.9283704;
  
- Including file /remote/mbennet/projects/ECP/3p/Si/analysis/bases/o_aug-cc-pCV5Z.basis
+ Including file o_aug-cc-pCV5Z.basis
  }
  
  DO s=0,6

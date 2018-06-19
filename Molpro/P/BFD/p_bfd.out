@@ -47,7 +47,7 @@
  1;
  2,2.549579,18.18547203;
  
- Including file /remote/mbennet/projects/ECP/3p/P/analysis/bases/p_aug-cc-pCV5Z_1s1p1d.basis
+ Including file p_aug-cc-pCV5Z_1s1p1d.basis
  }
  
  geometry={P}
@@ -78,7 +78,7 @@
  1;
  2,8.71924452,38.41914135;
  
- Including file /remote/mbennet/projects/ECP/3p/P/analysis/bases/o_aug-cc-pCV5Z.basis
+ Including file o_aug-cc-pCV5Z.basis
  }
  
  geometry={O}
@@ -109,7 +109,7 @@
  1;
  2,2.549579,18.18547203;
  
- Including file /remote/mbennet/projects/ECP/3p/P/analysis/bases/p_aug-cc-pCV5Z_1s1p1d.basis
+ Including file p_aug-cc-pCV5Z_1s1p1d.basis
  }
  
  geometry={P}
@@ -217,7 +217,7 @@
  1;
  2,2.549579,18.18547203;
  
- Including file /remote/mbennet/projects/ECP/3p/P/analysis/bases/p_aug-cc-pCV5Z_1s1p1d.basis
+ Including file p_aug-cc-pCV5Z_1s1p1d.basis
  
  ecp,O,2,1,0;
  3;
@@ -226,7 +226,7 @@
  2,8.62925665,-38.81978498;
  1;
  2,8.71924452,38.41914135;
- Including file /remote/mbennet/projects/ECP/3p/P/analysis/bases/o_aug-cc-pCV5Z.basis
+ Including file o_aug-cc-pCV5Z.basis
  }
  
  DO s=0,6

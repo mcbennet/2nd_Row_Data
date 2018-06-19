@@ -38,9 +38,9 @@
  SET,DKHP=2
  
  basis={
- Including file /remote/mbennet/projects/ECP/3p/Ar/analysis/bases/ar_aug-cc-pwCV5Z.basis
+ Including file ar_aug-cc-pwCV5Z.basis
  
- Including file /remote/mbennet/projects/ECP/3p/Ar/analysis/bases/h_aug-cc-pV5Z.basis
+ Including file h_aug-cc-pV5Z.basis
  }
  
  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! LONE ATOM CORE ENERGIES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

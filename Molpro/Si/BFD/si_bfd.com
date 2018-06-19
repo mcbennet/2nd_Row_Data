@@ -27,7 +27,7 @@ ecp,Si,10,2,0;
 1;
 2,2.11659661,15.43693603;
 
-include,/remote/mbennet/projects/ECP/3p/Si/analysis/bases/si_aug-cc-pCV5Z_2s2p2d.basis
+include,si_aug-cc-pCV5Z_2s2p2d.basis
 }
 
 geometry={Si}
@@ -58,7 +58,7 @@ ecp,O,2,1,0;
 1;
 2,8.71924452,38.41914135;
 
-include,/remote/mbennet/projects/ECP/3p/Si/analysis/bases/o_aug-cc-pCV5Z.basis
+include,o_aug-cc-pCV5Z.basis
 }
 
 geometry={O}
@@ -89,7 +89,7 @@ ecp,Si,10,2,0;
 1;
 2,2.11659661,15.43693603;
 
-include,/remote/mbennet/projects/ECP/3p/Si/analysis/bases/si_aug-cc-pCV5Z_2s2p2d.basis
+include,si_aug-cc-pCV5Z_2s2p2d.basis
 }
 
 geometry={Si}
@@ -204,7 +204,7 @@ ecp,Si,10,2,0;
 1;
 2,2.11659661,15.43693603;
 
-include,/remote/mbennet/projects/ECP/3p/Si/analysis/bases/si_aug-cc-pCV5Z_2s2p2d.basis
+include,si_aug-cc-pCV5Z_2s2p2d.basis
 
 ecp,O,2,1,0;
 3;
@@ -214,7 +214,7 @@ ecp,O,2,1,0;
 1;
 2,8.71924452,38.41914135;
 
-include,/remote/mbennet/projects/ECP/3p/Si/analysis/bases/o_aug-cc-pCV5Z.basis
+include,o_aug-cc-pCV5Z.basis
 }
 
 DO s=0,6

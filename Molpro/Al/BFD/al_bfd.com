@@ -27,7 +27,7 @@ ecp,Al,10,2,0;
 1;
 2,1.79397208,14.22120694;
 
-include,/remote/mbennet/projects/ECP/3p/Al/analysis_new/bases/al_aug-cc-pwCV5Z.basis
+include,al_aug-cc-pwCV5Z.basis
 }
 
 geometry={Al}
@@ -58,7 +58,7 @@ ecp,O,2,1,0;
 1;
 2,8.71924452,38.41914135;
 
-include,/remote/mbennet/projects/ECP/3p/Al/analysis_new/bases/o_aug-cc-pCV5Z.basis
+include,o_aug-cc-pCV5Z.basis
 }
 
 geometry={O}
@@ -89,7 +89,7 @@ ecp,Al,10,2,0;
 1;
 2,1.79397208,14.22120694;
 
-include,/remote/mbennet/projects/ECP/3p/Al/analysis_new/bases/al_aug-cc-pwCV5Z.basis
+include,al_aug-cc-pwCV5Z.basis
 }
 
 geometry={Al}
@@ -186,7 +186,7 @@ ecp,Al,10,2,0;
 1;
 2,1.79397208,14.22120694;
 
-include,/remote/mbennet/projects/ECP/3p/Al/analysis_new/bases/al_aug-cc-pwCV5Z.basis
+include,al_aug-cc-pwCV5Z.basis
 
 ecp,O,2,1,0;
 3;
@@ -196,7 +196,7 @@ ecp,O,2,1,0;
 1;
 2,8.71924452,38.41914135;
 
-include,/remote/mbennet/projects/ECP/3p/Al/analysis_new/bases/o_aug-cc-pCV5Z.basis
+include,o_aug-cc-pCV5Z.basis
 }
 
 DO s=0,6

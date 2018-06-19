@@ -18,9 +18,9 @@ SET,DKHO=10
 SET,DKHP=2 
 
 basis={
-include,/remote/mbennet/projects/ECP/3p/S/analysis/bases/s_aug-cc-pwCV5Z.basis
+include,s_aug-cc-pwCV5Z.basis
 
-include,/remote/mbennet/projects/ECP/3p/S/analysis/bases/o_aug-cc-pCV5Z.basis
+include,o_aug-cc-pCV5Z.basis
 }
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! LONE ATOM CORE ENERGIES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
