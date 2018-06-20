@@ -39,10 +39,10 @@
  2;
   2  ,  1.37994865 ,   3.23272398
   2  ,  0.86245288 ,   2.49407937
- Including file /remote/cmelton/data/corrECP/2nd_row/aug-cc-pVTZ.basis
+ Including file aug-cc-pVTZ.basis
  }
  
- Including file /remote/cmelton/data/corrECP/2nd_row/Na/Ne-core/states.proc
+ Including file Na/Ne-core/states.proc
  
  do i=1,2
  if (i.eq.1) then

@@ -40,10 +40,10 @@
    2  ,  24.39824000  ,  112.36079900
  1
    2, 1.0, 0.0
- Including file /remote/cmelton/data/corrECP/2nd_row/aug-cc-pCVDZ.basis
+ Including file aug-cc-pCVDZ.basis
  }
  
- Including file /remote/cmelton/data/corrECP/2nd_row/Al/He-core/basis/states.proc
+ Including file Al/He-core/basis/states.proc
  
  do i=1,5
  if (i.eq.1) then

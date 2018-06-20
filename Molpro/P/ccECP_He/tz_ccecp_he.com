@@ -22,9 +22,20 @@ P  0.0 0.0 0.0
 }
 
 basis={
-include,/remote/mbennet/projects/ECP/3p/P/analysis/best_sc_ecp.dat
+ecp,P,10,2,0;
+5;
+1,0.0,-13.0;
+1,0.0,5.0;
+1,11.695975118527,13.0;
+3,12.232718710797,152.047676540851;
+2,12.489786639170001,-103.251368355488;
+2;
+2,54.280555383252,35.012435877038996;
+2,34.449772213685996,155.677422007114;
+1;
+2,1.0,0.0;
 
-include,/remote/mbennet/projects/ECP/3p/bases/aug-cc-pCVTZ.basis
+include,aug-cc-pCVTZ.basis
 }
 
 include,ppstates_sc.proc

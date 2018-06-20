@@ -20,7 +20,7 @@ ecp,Na,10,2,0
   2  ,  29.94712200  ,  221.73468900 
 1
   1  , 1.0 , 0
-include,/remote/cmelton/data/corrECP/2nd_row/aug-cc-pCVDZ.basis
+include,aug-cc-pCVDZ.basis
 }
 
 include,states.proc

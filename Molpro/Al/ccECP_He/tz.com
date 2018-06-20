@@ -20,7 +20,7 @@ ecp,Al,10,2,0
   2  ,  24.39824000  ,  112.36079900
 1
   2, 1.0, 0.0
-include,/remote/cmelton/data/corrECP/2nd_row/aug-cc-pCVTZ.basis
+include,aug-cc-pCVTZ.basis
 }
 
 include,states.proc

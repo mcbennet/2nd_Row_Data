@@ -22,9 +22,21 @@ Cl  0.0 0.0 0.0
 }
 
 basis={
-include,/remote/mbennet/projects/ECP/3p/Cl/analysis/best_sc_ecp.dat
+ecp,Cl,10,2,0;
+5;
+1,0.0,-15.0;
+1,0.0,7.0;
+1,20.01071281,15.0;
+3,21.44804874,300.16069215;
+2,21.17991361,-151.85882234;
+2;
+2,44.02974125,202.03781785;
+2,65.80681305,25.00902536;
+1;
+2,1.0,0.0;
 
-include,/remote/mbennet/projects/ECP/3p/bases/aug-cc-pCVTZ.basis
+
+include,aug-cc-pCVTZ.basis
 }
 
 include,ppstates_sc.proc

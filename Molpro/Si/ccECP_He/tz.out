@@ -39,10 +39,10 @@
    2  ,  22.54933800  ,   96.90843500
  1
    2 , 1.0, 0.0
- Including file /remote/cmelton/data/corrECP/2nd_row/aug-cc-pCVTZ.basis
+ Including file aug-cc-pCVTZ.basis
  }
  
- Including file /remote/cmelton/data/corrECP/2nd_row/Si/He-core/basis/states.proc
+ Including file Si/He-core/basis/states.proc
  
  do i=1,6
  if (i.eq.1) then

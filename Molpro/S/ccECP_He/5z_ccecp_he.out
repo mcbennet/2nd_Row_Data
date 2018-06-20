@@ -42,12 +42,24 @@
  }
  
  basis={
- Including file /remote/mbennet/projects/ECP/3p/S/analysis/best_sc_ecp.dat
+ ecp,S,10,2,0;
+ 5;
+ 1,0.0,-14.0;
+ 1,0.0,6.0;
+ 1,17.46806994,14.0;
+ 3,16.40396851,244.55297916;
+ 2,16.71429998,-128.37752591;
+ 2;
+ 2,54.87912854,30.00006536;
+ 2,31.32968867,125.50010056;
+ 1;
+ 2,1.0,0.0;
+
  
- Including file /remote/mbennet/projects/ECP/3p/bases/aug-cc-pCV5Z.basis
+ Including file aug-cc-pCV5Z.basis
  }
  
- Including file /remote/mbennet/projects/ECP/3p/S/analysis/totals/ppstates_sc.proc
+ Including file totals/ppstates_sc.proc
  
  do i=0,7
      if (i.eq.0) then

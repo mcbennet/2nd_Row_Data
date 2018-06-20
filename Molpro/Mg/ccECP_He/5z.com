@@ -20,7 +20,7 @@ ecp,Mg,10,2,0
  2  ,  23.95808900  ,  117.10260900 
 1 
  2, 1.0, 0.0
-include,/remote/cmelton/data/corrECP/2nd_row/aug-cc-pCV5Z.basis
+include,aug-cc-pCV5Z.basis
 }
 
 include,states.proc

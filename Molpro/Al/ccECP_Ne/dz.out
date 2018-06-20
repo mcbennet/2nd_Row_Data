@@ -37,10 +37,10 @@
    2  ,  9.96813000 ,  17.57180200
  1
    2  ,  2.72141500 ,  12.14866500
- Including file /remote/cmelton/data/corrECP/2nd_row/aug-cc-pVDZ.basis
+ Including file aug-cc-pVDZ.basis
  }
  
- Including file /remote/cmelton/data/corrECP/2nd_row/Al/Ne-core/basis/states.proc
+ Including file Al/Ne-core/basis/states.proc
  
  do i=1,4
  if (i.eq.1) then

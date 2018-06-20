@@ -17,7 +17,7 @@ ecp,Al,10,2,0;
 2,1.910508,17.571802;
 1;
 2,1.698219,12.148665;
-include,/remote/cmelton/data/corrECP/2nd_row/aug-cc-pV5Z.basis
+include,aug-cc-pV5Z.basis
 }
 
 include,states.proc

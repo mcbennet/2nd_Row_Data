@@ -19,7 +19,7 @@ ecp,Mg,10,2,0
 2
   2  ,  1.58396886 ,   3.31506900 
   2  ,  1.07729691 ,   4.40302510 
-include,/remote/cmelton/data/corrECP/2nd_row/aug-cc-pVDZ.basis
+include,aug-cc-pVDZ.basis
 }
 
 include,states.proc

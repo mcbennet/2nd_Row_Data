@@ -19,7 +19,7 @@ ecp,Si,10,2,0
   2  ,  22.54933800  ,   96.90843500 
 1
   2 , 1.0, 0.0
-include,/remote/cmelton/data/corrECP/2nd_row/aug-cc-pCVDZ.basis
+include,aug-cc-pCVDZ.basis
 }
 
 include,states.proc
