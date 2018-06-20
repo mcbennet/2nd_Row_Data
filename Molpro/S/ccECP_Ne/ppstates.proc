@@ -1,0 +1,147 @@
+
+proc N1
+{rhf
+ start,atden
+ wf,1,1,1
+ occ,1,0,0,0,0,0,0,0
+ open,1.1
+}
+endproc
+
+proc N2
+{rhf
+ start,atden
+ wf,2,1,0
+ occ,1,0,0,0,0,0,0,0
+}
+endproc
+
+proc N3
+{rhf
+ start,atden
+ wf,3,3,1
+ occ,1,0,1,0,0,0,0,0
+ open,1.3
+ orbital,4202.2
+}
+{multi
+ maxiter,40
+ start,4202.2
+ occ,1,1,1,0,1,0,0,0
+ closed,1,0,0,0,0,0,0
+ wf,3,3,1;state,1
+ wf,3,5,1;state,1
+ wf,3,2,1;state,1
+ natorb,ci,print
+ orbital,5202.2
+}
+{rhf,nitord=1,maxit=0
+ start,5202.2
+ wf,3,3,1
+ occ,1,0,1,0,0,0,0,0
+ open,1.3
+}
+endproc
+
+proc N4
+{rhf
+ start,atden
+ wf,4,7,2
+ occ,1,0,1,0,1,0,0,0
+ open,1.3,1.5
+ orbital,4202.2
+}
+{multi
+ maxiter,40
+ start,4202.2
+ occ,1,1,1,0,1,0,0,0
+ closed,1,0,0,0,0,0,0
+ wf,4,4,2;state,1
+ wf,4,6,2;state,1
+ wf,4,7,2;state,1
+ natorb,ci,print
+ orbital,5202.2
+}
+{rhf,nitord=1,maxit=0
+ start,5202.2
+ wf,4,7,2
+ occ,1,0,1,0,1,0,0,0
+ open,1.3,1.5
+}
+endproc
+
+proc N5
+{rhf
+ start,atden
+ wf,5,8,3
+ occ,1,1,1,0,1,0,0,0
+ open,1.3,1.5,1.2
+ orbital,4202.2
+}
+endproc
+
+proc N6
+{rhf
+ start,atden
+ wf,6,7,2
+ occ,1,1,1,0,1,0,0,0
+ open,1.3,1.5
+ orbital,4202.2
+}
+{multi
+ maxiter,40
+ start,4202.2
+ occ,1,1,1,0,1,0,0,0
+ closed,1,0,0,0,0,0,0
+ wf,6,4,2;state,1
+ wf,6,6,2;state,1
+ wf,6,7,2;state,1
+ natorb,ci,print
+ orbital,5202.2
+}
+{rhf,nitord=1,maxit=0
+ start,5202.2
+ wf,6,7,2
+ occ,1,1,1,0,1,0,0,0
+ open,1.3,1.5
+}
+endproc
+
+
+
+proc N7
+{rhf
+ start,atden
+ wf,7,3,1
+ occ,1,1,1,0,1,0,0,0
+ open,1.3
+ orbital,4202.2
+}
+{multi
+ maxiter,40
+ start,4202.2
+ occ,1,1,1,0,1,0,0,0
+ closed,1,0,0,0,0,0,0
+ wf,7,3,1;state,1
+ wf,7,5,1;state,1
+ wf,7,2,1;state,1
+ natorb,ci,print
+ orbital,5202.2
+}
+{rhf,nitord=1,maxit=0
+ start,5202.2
+ wf,7,3,1
+ occ,1,1,1,0,1,0,0,0
+ open,1.3
+}
+endproc
+
+
+
+proc N8
+{rhf
+ start,atden
+ wf,8,1,0
+ occ,1,1,1,0,1,0,0,0
+}
+endproc
