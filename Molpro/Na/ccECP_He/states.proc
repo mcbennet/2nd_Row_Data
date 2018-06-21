@@ -1,0 +1,25 @@
+proc GS
+{rhf
+ start,atden
+ wf,9,1,1
+ occ,2,1,1,0,1,0,0,0
+ open,2.1
+}
+endproc
+
+proc IP
+{rhf
+ start,atden
+ wf,8,1,0
+ occ,1,1,1,0,1,0,0,0
+}
+endproc
+
+proc EA
+{rhf
+ start,atden
+ wf,10,1,0
+ occ,2,1,1,0,1,0,0,0
+}
+endproc
+ 

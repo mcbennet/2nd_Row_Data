@@ -1,0 +1,21 @@
+proc GS
+{rhf
+ start,atden
+ wf,10,1,0
+}
+endproc
+
+proc IP1
+{rhf
+ start,atden
+ wf,9,1,1
+}
+endproc
+ 
+proc IP2
+{rhf
+ start,atden
+ wf,8,1,0
+}
+endproc
+ 

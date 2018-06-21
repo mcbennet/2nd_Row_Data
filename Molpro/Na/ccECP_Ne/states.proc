@@ -1,0 +1,17 @@
+proc GS
+{rhf
+ start,atden
+ wf,1,1,1
+ occ,1,0,0,0,0,0,0,0
+ open,1.1
+}
+endproc
+
+proc EA
+{rhf
+ start,atden
+ wf,2,1,0
+ occ,1
+}
+endproc
+ 
